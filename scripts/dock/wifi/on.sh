@@ -1,0 +1,1 @@
+ip link set enp0s3 on

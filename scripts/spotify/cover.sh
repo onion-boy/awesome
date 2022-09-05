@@ -1,0 +1,1 @@
+wget $(bash sp art) -O /tmp/spotify_current.jpg
